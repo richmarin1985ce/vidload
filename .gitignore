@@ -1,0 +1,11 @@
+node_modules/
+.wrangler/
+dist/
+*.log
+.gradle/
+android/.gradle/
+android/build/
+android/app/build/
+android/app/src/main/assets/
+local.properties
+.DS_Store
